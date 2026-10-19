@@ -91,7 +91,14 @@ OFFICIAL JOBS (company website):
 OTHER JOBS:
 {search_block(jobs_other)}"""
 
-    return {"current": llm.invoke(prompt).model_dump()}
+    result = llm.invoke(prompt).model_dump()
+
+    ALLOWED = ("careers@", "jobs@", "hr@", "hiring@", "talent@", "recruit")
+    email = result.get("public_email")
+    if email and not email.lower().startswith(ALLOWED):
+        result["public_email"] = None
+
+    return {"current": result}
 
 def save(state: State):
     c = state["current"]
