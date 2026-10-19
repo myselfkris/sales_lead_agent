@@ -1,0 +1,63 @@
+{
+  "name": "Krutrim",
+  "website": "https://www.olakrutrim.com",
+  "description": "Krutrim is an Indian AI infrastructure and cloud computing company providing full-stack domestic AI cloud services, compute infrastructure, and foundation models designed to support complex, production-scale AI and enterprise workloads.",
+  "problem_they_solve": "Provides full-stack, India-first AI cloud infrastructure, high-performance GPU/CPU compute, and AI services, addressing the dependency on foreign cloud platforms and enabling scalable training and deployment of modern AI workloads.",
+  "recent_changes": [
+    {
+      "title": "Krutrim announces strategic pivot to domestic AI cloud services, reporting 3x revenue growth and net profit in FY26",
+      "date": null,
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/krutrim-announces-strategic-pivot-to-ai-cloud-services-reports-3x-revenue-growth-and-first-net-profit-in-fy26/articleshow/130815491.cms"
+    },
+    {
+      "title": "Krutrim shifts focus from model building and chip design to cloud services infrastructure",
+      "date": "2026-05-05",
+      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Chandra Khatri",
+      "role": "Founding Head of AI",
+      "profile_url": "https://www.linkedin.com/in/ckhatri"
+    },
+    {
+      "name": "Bhavish Aggarwal",
+      "role": "Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Rohit Kumar",
+      "role": "Talent Lead",
+      "profile_url": "https://in.linkedin.com/in/rohit-kumar-90b44341"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://www.olakrutrim.com",
+    "https://docs.cloud.olakrutrim.com",
+    "https://ai-labs.olakrutrim.com",
+    "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding",
+    "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality",
+    "https://m.economictimes.com/tech/artificial-intelligence/krutrim-announces-strategic-pivot-to-ai-cloud-services-reports-3x-revenue-growth-and-first-net-profit-in-fy26/articleshow/130815491.cms",
+    "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+    "https://www.linkedin.com/in/ckhatri",
+    "https://in.linkedin.com/in/rohit-kumar-90b44341",
+    "https://www.jobaaj.com/job/krutrim-lead-generative-ai-research-engineer-ai-labs-bengaluru-bangalore-karnataka-5-to-10-years-674982"
+  ],
+  "hiring": [
+    {
+      "title": "Lead Generative AI Engineer",
+      "skills": [
+        "Python",
+        "C/C++",
+        "CUDA",
+        "kernel-level programming for AI applications",
+        "quantization",
+        "distillation",
+        "Vision Pipelines"
+      ],
+      "url": "https://www.jobaaj.com/job/krutrim-lead-generative-ai-research-engineer-ai-labs-bengaluru-bangalore-karnataka-5-to-10-years-674982"
+    }
+  ]
+}

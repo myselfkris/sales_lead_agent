@@ -1,5 +1,10 @@
 from pydantic import BaseModel, Field
 
+class OpenRole(BaseModel):
+    title: str
+    skills: list[str] = Field(default_factory=list)
+    url: str  # job post or careers page, required
+
 class NewsItem(BaseModel):
     title: str
     date: str | None = None
@@ -19,3 +24,4 @@ class CompanyResearch(BaseModel):
     contacts: list[Contact] = Field(default_factory=list)
     public_email: str | None = None  # official careers/contact email only
     sources: list[str] = Field(default_factory=list)
+    hiring: list[OpenRole] = Field(default_factory=list)

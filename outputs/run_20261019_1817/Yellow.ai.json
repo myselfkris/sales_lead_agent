@@ -1,0 +1,95 @@
+{
+  "name": "Yellow.ai",
+  "website": "https://yellow.ai",
+  "description": "Yellow.ai is an enterprise agentic and conversational AI platform that automates customer service (CX) and employee experience (EX) interactions across chat, voice, email, and social channels using a multi-LLM architecture.",
+  "problem_they_solve": "Automates labor-intensive enterprise customer support and employee service operations by deploying autonomous AI agents that plan, execute complex workflows, and resolve inquiries across systems, channels, and languages without manual human intervention.",
+  "recent_changes": [
+    {
+      "title": "Yellow.ai to Go Public via $550 Million Merger with Bluerock Acquisition Corp.",
+      "date": "August 3, 2026",
+      "url": "https://www.prnewswire.com/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-nasdaq-blrk-302840634.html"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Raghu Ravinutala",
+      "role": "Co-founder and Chief Executive Officer",
+      "profile_url": "https://www.linkedin.com/in/raghuravinutala"
+    },
+    {
+      "name": "Jaya Kishore Reddy",
+      "role": "Chief Product Officer & Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Rashid Khan",
+      "role": "Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Madhav Chinta",
+      "role": "Chief Technology Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Praful Kulkarni",
+      "role": "Director - People & Culture",
+      "profile_url": "https://in.linkedin.com/in/kulkarnipraful"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yellow.ai",
+    "https://www.prnewswire.com/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-nasdaq-blrk-302840634.html",
+    "https://yellow.ai/about-us",
+    "https://yellow.ai/author/raghuyellow-ai",
+    "https://www.linkedin.com/in/raghuravinutala",
+    "https://in.linkedin.com/in/kulkarnipraful",
+    "https://www.unite.ai/yellow-ai-goes-public-via-spac-to-roll-up-outsourcing-firms",
+    "https://www.instahyre.com/job-398415-ai-engineer-at-yellow-gurgaon",
+    "https://www.instahyre.com/job-366660-ai-ml-engineer-at-yellow-bangalore",
+    "https://www.instahyre.com/job-394953-gen-ai-ml-engineer-at-yellow-bangalore",
+    "https://www.instahyre.com/job-363548-sr-ai-engineer-at-yellow-hyderabad"
+  ],
+  "hiring": [
+    {
+      "title": "AI Engineer",
+      "skills": [
+        "Data Science",
+        "Machine Learning",
+        "Backend Development",
+        "Full-Stack Development"
+      ],
+      "url": "https://www.instahyre.com/job-398415-ai-engineer-at-yellow-gurgaon"
+    },
+    {
+      "title": "Gen AI / ML Engineer",
+      "skills": [],
+      "url": "https://www.instahyre.com/job-394953-gen-ai-ml-engineer-at-yellow-bangalore"
+    },
+    {
+      "title": "AI / ML Engineer",
+      "skills": [
+        "Computer Vision",
+        "Generative AI",
+        "Keras",
+        "Machine Learning",
+        "NLP",
+        "PyTorch",
+        "R",
+        "Scikit-learn",
+        "TensorFlow",
+        "spaCy"
+      ],
+      "url": "https://www.instahyre.com/job-366660-ai-ml-engineer-at-yellow-bangalore"
+    },
+    {
+      "title": "Sr. AI Engineer",
+      "skills": [
+        "Data Science",
+        "Machine Learning"
+      ],
+      "url": "https://www.instahyre.com/job-363548-sr-ai-engineer-at-yellow-hyderabad"
+    }
+  ]
+}

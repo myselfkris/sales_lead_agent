@@ -1,0 +1,89 @@
+{
+  "name": "Sarvam AI",
+  "website": "https://www.sarvam.ai",
+  "description": "Sarvam AI is an Indian artificial intelligence company developing full-stack sovereign AI systems, foundation large language models, multimodal technologies, and speech APIs purpose-built for Indian languages.",
+  "problem_they_solve": "Addresses the lack of high-performing, cost-efficient generative AI and foundation models customized for Indian languages, accents, cultural context, and region-specific enterprise and public infrastructure needs.",
+  "recent_changes": [
+    {
+      "title": "Sarvam AI raises $234 million in first close of $300 million Series B at a $1.5 billion valuation",
+      "date": "June 15, 2026",
+      "url": "https://www.sarvam.ai/announcing-series-b"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Dr. Vivek Raghavan",
+      "role": "Co-Founder",
+      "profile_url": "https://in.linkedin.com/in/vivek-raghavan-16005424"
+    },
+    {
+      "name": "Dr. Pratyush Kumar",
+      "role": "Co-Founder & CEO",
+      "profile_url": "https://in.linkedin.com/in/pratyush-kumar-8844a8a3"
+    },
+    {
+      "name": "Aarthi Balaraman",
+      "role": "Lead Recruiter, R&D",
+      "profile_url": "https://in.linkedin.com/in/aarthibalaraman"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://www.tvisha.com/blog/sarvam-ai-founder",
+    "https://www.sarvam.ai/about-us",
+    "https://en.wikipedia.org/wiki/Sarvam_AI",
+    "https://www.sarvam.ai/blogs/announcing-series-a",
+    "https://in.linkedin.com/in/vivek-raghavan-16005424",
+    "https://in.linkedin.com/in/pratyush-kumar-8844a8a3",
+    "https://www.elastic.co/search-labs/blog/multilingual-voice-agent-sarvam-ai-elastic-agent-builder",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231169",
+    "https://www.linkedin.com/posts/analytics-india-magazine_sarvam-ai-is-quietly-redefining-indias-ai-activity-7426853571419201536-V5mb",
+    "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "https://www.sarvam.ai/announcing-series-b",
+    "https://www.sarvam.ai/blogs/introducing-sarvam-circle",
+    "https://in.linkedin.com/in/aarthibalaraman",
+    "https://in.linkedin.com/in/mrganis",
+    "https://www.hcltech.com/en-us/press-releases/sarvam-raises-234-million-first-close-300-million-series-b-15-billion-valuation",
+    "https://coderound.ai",
+    "https://www.bvp.com/news/sarvam-ai-building-sovereign-ai-for-india",
+    "https://www.sarvam.ai/careers",
+    "https://www.sarvam.ai/careers/jobs/fcb15601-6440-41f7-aa79-b9992057a4b2",
+    "https://www.sarvam.ai/careers/jobs/36f89b00-2010-4d23-aae3-17a2f53d9eaa",
+    "https://www.sarvam.ai/careers/jobs/0632eb6b-e99c-4e31-9a6a-c3bd36fc8512",
+    "https://www.sarvam.ai/careers/jobs/48b2c236-a7e7-475d-b98b-4eb942e85dc7",
+    "https://jobs.khoslaventures.com/companies/sarvam-ai-2/jobs/51571093-ai-researcher-research-engineer-autonomous-agents",
+    "https://www.uplers.com/company/sarvam-5513"
+  ],
+  "hiring": [
+    {
+      "title": "Agent Engineer",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers/jobs/36f89b00-2010-4d23-aae3-17a2f53d9eaa"
+    },
+    {
+      "title": "Platform Engineer - AI Infrastructure",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "ML Ops Engineer, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Researcher, Vision",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Senior Backend Engineer, Vision",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Performance Engineer, On-Device Inference",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    }
+  ]
+}

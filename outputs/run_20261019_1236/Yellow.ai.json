@@ -1,0 +1,41 @@
+{
+  "name": "Yellow.ai",
+  "website": "https://yellow.ai",
+  "description": "Yellow.ai is an enterprise Agentic AI platform that delivers autonomous, human-like experiences for customer service and employee engagement across text, chat, and voice channels using multi-LLM architecture.",
+  "problem_they_solve": "Addresses the high costs and inefficiencies of labor-intensive customer support and enterprise service operations by automating routine inquiries, calls, and workflows using autonomous AI agents.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Raghu Ravinutala",
+      "role": "Co-founder and Chief Executive Officer",
+      "profile_url": "https://www.linkedin.com/in/raghuravinutala"
+    },
+    {
+      "name": "Jaya Kishore Reddy",
+      "role": "Co-founder and Chief Product Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Madhav Chinta",
+      "role": "Chief Technology Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Praful Kulkarni",
+      "role": "Director \u2013 People & Culture",
+      "profile_url": "https://in.linkedin.com/in/kulkarnipraful"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yellow.ai",
+    "https://www.prnewswire.com/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-nasdaq-blrk-302840634.html",
+    "https://yellow.ai/author/raghuyellow-ai",
+    "https://yellow.ai/about-us",
+    "https://www.linkedin.com/in/raghuravinutala",
+    "https://yellow.ai/investors",
+    "https://in.linkedin.com/in/kulkarnipraful",
+    "https://yellow.ai/blog/how-yellow-ai-works-around-the-pitfalls-of-prompt-engineering"
+  ],
+  "hiring": []
+}

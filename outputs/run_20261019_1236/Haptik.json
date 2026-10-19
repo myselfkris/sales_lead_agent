@@ -1,0 +1,51 @@
+{
+  "name": "Haptik",
+  "website": "https://www.haptik.ai",
+  "description": "Haptik (Jio Haptik) is an enterprise conversational AI platform that builds AI agents for channels including WhatsApp, voice, web, RCS, Instagram Direct, and Facebook Messenger.",
+  "problem_they_solve": "Enables enterprises to build conversational AI systems that allow users to converse in natural language, automating customer service, lead qualification, booking, and administrative tasks across channels.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Aakrit Vaish",
+      "role": "Co-Founder",
+      "profile_url": "https://www.jioinstitute.edu.in/aakrit-vaish"
+    },
+    {
+      "name": "Swapan Rajdev",
+      "role": "Co-Founder",
+      "profile_url": "https://www.linkedin.com/in/swapan-rajdev-64a0591a"
+    },
+    {
+      "name": "Saumil Shah",
+      "role": "CTO",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haptik",
+    "https://www.jioinstitute.edu.in/aakrit-vaish",
+    "https://www.haptik.ai/about-us",
+    "https://www.linkedin.com/in/swapan-rajdev-64a0591a",
+    "https://www.instahyre.com/job-431080-voice-ai-engineer-at-haptik-work-from-home",
+    "https://www.instahyre.com/job-413113-senior-software-engineer-conversational-ai-at-haptik-mumbai",
+    "https://www.instahyre.com/job-416699-backend-engineer-l3-at-haptik-mumbai"
+  ],
+  "hiring": [
+    {
+      "title": "Voice AI Engineer",
+      "skills": [],
+      "url": "https://www.instahyre.com/job-431080-voice-ai-engineer-at-haptik-work-from-home"
+    },
+    {
+      "title": "Senior Software Engineer - Conversational AI",
+      "skills": [],
+      "url": "https://www.instahyre.com/job-413113-senior-software-engineer-conversational-ai-at-haptik-mumbai"
+    },
+    {
+      "title": "Backend Engineer - L3",
+      "skills": [],
+      "url": "https://www.instahyre.com/job-416699-backend-engineer-l3-at-haptik-mumbai"
+    }
+  ]
+}

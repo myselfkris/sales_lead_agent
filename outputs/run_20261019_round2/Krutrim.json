@@ -1,0 +1,56 @@
+{
+  "name": "Krutrim",
+  "website": "https://www.olakrutrim.com",
+  "description": "Krutrim is an Indian AI infrastructure and cloud computing company providing full-stack AI cloud services, compute infrastructure, and platforms to run complex AI workloads at enterprise scale.",
+  "problem_they_solve": "Provides high-performance AI cloud infrastructure, compute resources, and developer tools to address the demand for domestic, scalable AI training and inference platforms.",
+  "recent_changes": [
+    {
+      "title": "India\u2019s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+      "date": "2026-05-05",
+      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Bhavish Aggarwal",
+      "role": "Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Navendu Agarwal",
+      "role": "Independent board member",
+      "profile_url": null
+    },
+    {
+      "name": "Harish Abichandani",
+      "role": "Independent board member",
+      "profile_url": null
+    },
+    {
+      "name": "Krishnamurthy Venugopala Tenneti",
+      "role": "Independent board member",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://www.olakrutrim.com/terms-and-conditions",
+    "https://docs.cloud.olakrutrim.com",
+    "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality",
+    "https://m.economictimes.com/tech/artificial-intelligence/krutrim-announces-strategic-pivot-to-ai-cloud-services-reports-3x-revenue-growth-and-first-net-profit-in-fy26/articleshow/130815491.cms",
+    "https://www.moneycontrol.com/news/business/startup/bhavish-aggarwal-led-krutrim-pivots-from-building-ai-models-chip-design-to-cloud-services-13908186.html",
+    "https://tracxn.com/d/companies/krutrim/__JfsrVc2TQCqAdHXKzx6bPk4-PyEcEhpIY5dCtwz3_ds",
+    "https://internshala.com/company/krutrim-1723024377",
+    "https://internshala.com/job/detail/fresher-ai-engineer-job-in-delhi-at-krutrim-insights1788166470"
+  ],
+  "hiring": [
+    {
+      "title": "AI Engineer - Fresher",
+      "skills": [
+        "Python",
+        "Python Libraries"
+      ],
+      "url": "https://internshala.com/job/detail/fresher-ai-engineer-job-in-delhi-at-krutrim-insights1788166470"
+    }
+  ]
+}

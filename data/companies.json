@@ -1,22 +1,9 @@
 [
-    {
-        "name": "Sarvam AI",
-        "website": "https://www.sarvam.ai"
-    },
+   
     {
         "name": "Yellow.ai",
         "website": "https://yellow.ai"
-    },
-    {
-        "name": "Haptik",
-        "website": "https://www.haptik.ai"
-    },
-    {
-        "name": "Gupshup",
-        "website": "https://www.gupshup.io"
-    },
-    {
-        "name": "Krutrim",
-        "website": "https://www.olakrutrim.com"
-    }
+    }   
+    
+
 ]

@@ -1,0 +1,65 @@
+{
+  "name": "Gupshup",
+  "website": "https://www.gupshup.io",
+  "description": "Gupshup is a conversational AI and messaging platform providing automation solutions for marketing, commerce, and customer support across channels like WhatsApp, SMS, Web, and Instagram.",
+  "problem_they_solve": "Gupshup replaces static forms and ticket queues with conversational AI agents that lead, reply, route, and escalate customer interactions across sales, marketing, and support at scale.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Beerud Sheth",
+      "role": "Co-Founder and Chief Executive Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Gaurav Kachhawa",
+      "role": "Chief Product Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Ravi Dugar",
+      "role": "Chief Financial Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Kunal Patke",
+      "role": "SVP - Engineering",
+      "profile_url": null
+    },
+    {
+      "name": "Anindita Guha",
+      "role": "SVP - Partner Network",
+      "profile_url": null
+    },
+    {
+      "name": "Rakesh Mathur",
+      "role": "Chairman and Co-Founder",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://growfusely.com/blog/gupshup",
+    "https://tracxn.com/d/companies/gupshup/__hizFYlw9lsz9JCJZutuRtQ1dHHUknFyP73hc7TIyw3E",
+    "https://en.wikipedia.org/wiki/Gupshup",
+    "https://teardowns.sandhill.io/p/gupshup",
+    "https://www.gupshup.ai/about-us",
+    "https://www.caplight.com/company/gupshup-ai",
+    "https://www.gupshup.ai/sms-api",
+    "https://console-docs.gupshup.io",
+    "https://in.linkedin.com/jobs/gupshup-jobs"
+  ],
+  "hiring": [
+    {
+      "title": "GCP Infrastructure Engineer",
+      "skills": [
+        "Google Cloud",
+        "Terraform",
+        "Python",
+        "Bash",
+        "GKE",
+        "CI"
+      ],
+      "url": "https://in.linkedin.com/jobs/gupshup-jobs"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "name": "Yellow.ai",
+  "website": "https://yellow.ai",
+  "description": "Yellow.ai is an enterprise agentic AI platform that automates customer-facing (CX) and employee-facing (EX) service interactions across chat, voice, and multiple digital channels using a multi-LLM architecture.",
+  "problem_they_solve": "Helps enterprises automate routine and complex customer and employee support procedures, shifting from tools that merely assist workers to autonomous AI agents that plan, act, and resolve issues across systems and channels to reduce operational costs.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Raghu Ravinutala",
+      "role": "Chief Executive Officer & Co-founder",
+      "profile_url": "https://yellow.ai/author/raghuyellow-ai"
+    },
+    {
+      "name": "Jaya Kishore Reddy",
+      "role": "Chief Product Officer & Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Rashid Khan",
+      "role": "Chief Marketing Officer & Head of IR and Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Kaushik Bhaskar",
+      "role": "Chief Executive Officer, AI Services",
+      "profile_url": null
+    },
+    {
+      "name": "Nand Sharma",
+      "role": "President and Group CFO",
+      "profile_url": null
+    },
+    {
+      "name": "Vel Kaniappan",
+      "role": "CFO \u2013 Yellow.ai Platform",
+      "profile_url": null
+    },
+    {
+      "name": "Madhav Chinta",
+      "role": "Chief Technology Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Vasudev Chatti",
+      "role": "Chief Customer Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Varun Vijayagha",
+      "role": "CPO & CRO \u2013 APAC",
+      "profile_url": null
+    },
+    {
+      "name": "Michael Shulman",
+      "role": "North America \u2013 GTM",
+      "profile_url": null
+    },
+    {
+      "name": "Michael Flodin",
+      "role": "CX Advisor",
+      "profile_url": null
+    },
+    {
+      "name": "Daniel Akre",
+      "role": "CX Advisor",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yellow.ai",
+    "https://www.prnewswire.com/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-nasdaq-blrk-302840634.html",
+    "https://lsvp.com/company/yellow-ai",
+    "https://yellow.ai/about-us",
+    "https://yellow.ai/author/raghuyellow-ai",
+    "https://yellow.ai/investors",
+    "https://yellow.ai/career"
+  ],
+  "hiring": [
+    {
+      "title": "GTM Recruiter",
+      "skills": [
+        "End-to-End Recruitment",
+        "Talent Sourcing",
+        "Employer Branding",
+        "Recruitment Metrics",
+        "GTM Recruiting"
+      ],
+      "url": "https://yellow.ai/career"
+    }
+  ]
+}

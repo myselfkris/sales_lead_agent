@@ -1,0 +1,70 @@
+{
+  "name": "Gupshup",
+  "website": "https://www.gupshup.ai",
+  "description": "Gupshup is a conversational AI platform providing marketing, commerce, and support automation through AI agents and messaging infrastructure across channels like WhatsApp, Instagram, SMS, and RCS.",
+  "problem_they_solve": "Helps businesses communicate and engage with customers at scale without relying on static forms or ticket queues, making customer interactions more natural, automated, and human-like.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Beerud Sheth",
+      "role": "Co-Founder and Chief Executive Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Srinivas Anumolu",
+      "role": "Co-Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Rakesh Mathur",
+      "role": "Chairman and Co-Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Kunal Patke",
+      "role": "SVP - Engineering",
+      "profile_url": null
+    },
+    {
+      "name": "Meenakshi S",
+      "role": "Senior Manager HR",
+      "profile_url": "https://in.linkedin.com/in/meenakshi-s-5296a04"
+    }
+  ],
+  "public_email": "vandana.v@gupshup.io",
+  "sources": [
+    "https://growfusely.com/blog/gupshup",
+    "https://en.wikipedia.org/wiki/Gupshup",
+    "https://foundersnetwork.com/beerud-sheth-how-founders-can-take-advantage-of-recent-changes-tech-landscape",
+    "https://teardowns.sandhill.io/p/gupshup",
+    "https://www.gupshup.ai/about-us",
+    "https://www.gupshup.ai",
+    "https://www.gupshup.ai/careers",
+    "https://www.gupshup.ai/resources/press-releases/tnsdc-gupshup-whatsapp-chatbot-blue-collar-workers",
+    "https://in.linkedin.com/in/meenakshi-s-5296a04",
+    "https://cloudsoftsol.com/blog/gupshup-ai-ml-engineer-genai-fresher-bangalore-2026",
+    "https://myinternships.in/jobs-at/gupshup"
+  ],
+  "hiring": [
+    {
+      "title": "AI Engineer (LLM)",
+      "skills": [
+        "Python",
+        "LLM APIs",
+        "Prompt Design",
+        "Retrieval-Augmented Generation"
+      ],
+      "url": "https://myinternships.in/jobs-at/gupshup"
+    },
+    {
+      "title": "AI ML Engineer GenAI Fresher Bangalore",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "pandas/NumPy"
+      ],
+      "url": "https://cloudsoftsol.com/blog/gupshup-ai-ml-engineer-genai-fresher-bangalore-2026"
+    }
+  ]
+}
