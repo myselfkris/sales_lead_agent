@@ -1,0 +1,101 @@
+{
+  "name": "Sarvam AI",
+  "website": "https://www.sarvam.ai",
+  "description": "Sarvam AI is a full-stack sovereign AI company building foundational AI models, voice and speech technology, and conversational platforms purpose-built for Indian languages.",
+  "problem_they_solve": "Solves the lack of high-performance, context-specific AI models for Indian languages and accents, reducing dependence on foreign AI systems and enabling population-scale digital service delivery across diverse linguistic groups.",
+  "recent_changes": [
+    {
+      "title": "Raised $234M in first close of $300M Series B at $1.5B valuation",
+      "date": "2026-06-15",
+      "url": "https://www.sarvam.ai/announcing-series-b"
+    },
+    {
+      "title": "Introduced Sarvam Circle and partnerships with IBM, HP, and MoEngage",
+      "date": "2026-08-05",
+      "url": "https://www.sarvam.ai/blogs/introducing-sarvam-circle"
+    },
+    {
+      "title": "Announced Sarvam 30B and 105B models fine-tuned for Samvaad conversational platform",
+      "date": "2026-03-06",
+      "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Vivek Raghavan",
+      "role": "Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Pratyush Kumar",
+      "role": "Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Aarthi Balaraman",
+      "role": "Engineering Lead",
+      "profile_url": null
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "Senior Recruiter",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://www.elastic.co/search-labs/blog/multilingual-voice-agent-sarvam-ai-elastic-agent-builder",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231169",
+    "https://www.linkedin.com/posts/analytics-india-magazine_sarvam-ai-is-quietly-redefining-indias-ai-activity-7426853571419201536-V5mb",
+    "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "https://www.sarvam.ai/announcing-series-b",
+    "https://www.sarvam.ai/blogs/introducing-sarvam-circle",
+    "https://www.scribd.com/document/1034814662/Priya-Sharma-Resume-Cartesia",
+    "https://jobsinthewild-production.up.railway.app/j/2787",
+    "https://www.sarvam.ai/careers",
+    "https://www.sarvam.ai/careers?department=Engineering",
+    "https://sarvam.ai/careers"
+  ],
+  "hiring": [
+    {
+      "title": "Platform Engineer - AI Infrastructure",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "ML Engineer (Training Infra), Foundational Models",
+      "skills": [],
+      "url": "https://sarvam.ai/careers"
+    },
+    {
+      "title": "ML Researcher, Foundational Models",
+      "skills": [],
+      "url": "https://sarvam.ai/careers"
+    },
+    {
+      "title": "Performance Engineer, On-Device Inference",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Data Scientist - Evaluations, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Software Engineer - Model API Platform",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Infrastructure SRE - HPC",
+      "skills": [],
+      "url": "https://sarvam.ai/careers"
+    },
+    {
+      "title": "Performance Engineer, Kernels",
+      "skills": [],
+      "url": "https://sarvam.ai/careers"
+    }
+  ]
+}

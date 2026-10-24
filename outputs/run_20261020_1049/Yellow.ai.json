@@ -1,0 +1,61 @@
+{
+  "name": "Yellow.ai",
+  "website": "https://yellow.ai",
+  "description": "Yellow.ai is an enterprise agentic conversational AI platform that automates customer-facing (CX) and employee-facing (EX) interactions across chat, voice, email, and messaging using a multi-LLM architecture.",
+  "problem_they_solve": "Traditional enterprise customer service and BPO operations are labor-intensive, human-dependent, and rely on rigid scripted decision trees. Yellow.ai provides autonomous AI agents that understand intent, execute workflows, and resolve issues across multiple languages, systems, and channels.",
+  "recent_changes": [
+    {
+      "title": "Yellow.ai to go public via $550 million merger with Bluerock Acquisition Corp.",
+      "date": "2026-08-03",
+      "url": "https://www.prnewswire.com/in/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-302841119.html"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Raghu Ravinutala",
+      "role": "Chief Executive Officer & Co-founder",
+      "profile_url": "https://www.linkedin.com/in/raghuravinutala"
+    },
+    {
+      "name": "Jaya Kishore Reddy",
+      "role": "Chief Product Officer & Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Rashid Khan",
+      "role": "Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Madhav Chinta",
+      "role": "Chief Technology Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Praful Kulkarni",
+      "role": "Director \u2013 People & Culture",
+      "profile_url": "https://in.linkedin.com/in/kulkarnipraful"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yellow.ai",
+    "https://www.prnewswire.com/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-302840634.html",
+    "https://yellow.ai/author/raghuyellow-ai",
+    "https://lsvp.com/company/yellow-ai",
+    "https://yellow.ai/about-us",
+    "https://www.linkedin.com/in/raghuravinutala",
+    "https://www.prnewswire.com/in/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-302841119.html",
+    "https://www.getmacha.com/blog/yellow-ai-complete-guide",
+    "https://www.cloudtalk.io/blog/yellow-ai-review",
+    "https://www.mavenagi.com/blog/yellow-ai-alternatives",
+    "https://www.unite.ai/yellow-ai-goes-public-via-spac-to-roll-up-outsourcing-firms",
+    "https://yellow.ai/blog/why-yellow-ai",
+    "https://in.linkedin.com/in/kulkarnipraful",
+    "https://yellow.ai/career",
+    "https://view.yellow.ai/career",
+    "https://yellow.ai/en-ph/career",
+    "https://docs.yellow.ai/docs/platform_concepts/getting-started"
+  ],
+  "hiring": []
+}

@@ -1,0 +1,151 @@
+{
+  "name": "Sarvam AI",
+  "website": "https://www.sarvam.ai",
+  "description": "Sarvam AI is an Indian artificial intelligence company that builds a full-stack sovereign AI platform, developing foundational large language models, speech recognition, vision-language models, and enterprise-grade systems tailored for Indian languages and region-specific use cases.",
+  "problem_they_solve": "Enables population-scale digital service adoption across India by creating cost-efficient, high-quality indigenous AI models and tools purpose-built for India's linguistic and cultural diversity, reducing reliance on foreign AI systems.",
+  "recent_changes": [
+    {
+      "title": "Announcing Series B: Sarvam AI raises $234 million in first close of $300 million round",
+      "date": "2026-06-15",
+      "url": "https://www.sarvam.ai/announcing-series-b"
+    },
+    {
+      "title": "Introducing Sarvam Circle",
+      "date": "2026-08-05",
+      "url": "https://www.sarvam.ai/blogs/introducing-sarvam-circle"
+    },
+    {
+      "title": "Sarvam 30B and 105B Models",
+      "date": "2026-03-06",
+      "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Dr. Vivek Raghavan",
+      "role": "Co-Founder",
+      "profile_url": "https://in.linkedin.com/in/vivek-raghavan-16005424"
+    },
+    {
+      "name": "Dr. Pratyush Kumar",
+      "role": "Co-Founder & CEO",
+      "profile_url": "https://in.linkedin.com/in/pratyush-kumar-8844a8a3"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://www.tvisha.com/blog/sarvam-ai-founder",
+    "https://www.sarvam.ai/about-us",
+    "https://en.wikipedia.org/wiki/Sarvam_AI",
+    "https://www.sarvam.ai/blogs/announcing-series-a",
+    "https://in.linkedin.com/in/vivek-raghavan-16005424",
+    "https://in.linkedin.com/in/pratyush-kumar-8844a8a3",
+    "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "https://www.sarvam.ai/announcing-series-b",
+    "https://www.sarvam.ai/blogs/introducing-sarvam-circle",
+    "https://www.sarvam.ai/careers?department=Engineering",
+    "https://www.sarvam.ai/careers"
+  ],
+  "hiring": [
+    {
+      "title": "Backend Engineer, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Backend Engineer - Studio Media Platform",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Data Scientist - Evaluations, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Embedded Data Scientist, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Embedded Infrastructure Engineer, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Frontend Engineer, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Frontend Engineer, Vision",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "ML Ops Engineer, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Principal Security Engineer",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Researcher, Vision",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Senior Backend Engineer, Vision",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Senior Frontend Engineer - Arya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Staff Data Engineer",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Staff Engineer, API Platform",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Staff Engineer - Mobile, Desktop & KMP",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Staff Engineer, Product Infrastructure",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Staff Software Engineer - Frontend",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers?department=Engineering"
+    },
+    {
+      "title": "Performance Engineer, On-Device Inference",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Platform Engineer - AI Infrastructure",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Senior Performance Engineer, Intel Stack",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    }
+  ]
+}

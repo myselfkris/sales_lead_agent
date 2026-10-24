@@ -1,0 +1,50 @@
+{
+  "name": "Yellow.ai",
+  "website": "https://yellow.ai",
+  "description": "Yellow.ai is an enterprise agentic and conversational AI platform that automates customer and employee experiences across chat, voice, email, and digital channels using multi-LLM architecture.",
+  "problem_they_solve": "Addresses labor-intensive and costly customer support operations by deploying autonomous AI agents that handle routine inquiries, execute workflows, and resolve issues across systems, channels, and languages without human intervention.",
+  "recent_changes": [
+    {
+      "title": "Yellow.ai to Go Public via $550 Million Merger with Bluerock Acquisition Corp.",
+      "date": "2026-08-03",
+      "url": "https://www.prnewswire.com/in/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-302841119.html"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Raghu Ravinutala",
+      "role": "Chief Executive Officer & Co-founder",
+      "profile_url": "https://www.linkedin.com/in/raghuravinutala"
+    },
+    {
+      "name": "Jaya Kishore Reddy",
+      "role": "Chief Product Officer & Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Rashid Khan",
+      "role": "Co-founder",
+      "profile_url": null
+    },
+    {
+      "name": "Madhav Chinta",
+      "role": "Chief Technology Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Praful Kulkarni",
+      "role": "Director \u2013 People & Culture",
+      "profile_url": "https://in.linkedin.com/in/kulkarnipraful"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yellow.ai",
+    "https://yellow.ai/about-us",
+    "https://yellow.ai/investors",
+    "https://www.linkedin.com/in/raghuravinutala",
+    "https://in.linkedin.com/in/kulkarnipraful",
+    "https://www.prnewswire.com/in/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-302841119.html"
+  ],
+  "hiring": []
+}

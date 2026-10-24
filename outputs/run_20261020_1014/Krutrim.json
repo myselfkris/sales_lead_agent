@@ -1,0 +1,47 @@
+{
+  "name": "Krutrim",
+  "website": "https://www.olakrutrim.com",
+  "description": "Krutrim is an Indian AI infrastructure and cloud services company operating full-stack cloud computing platforms, high-performance GPU clusters, and orchestration services for enterprise and developer AI workloads.",
+  "problem_they_solve": "Provides domestically built AI cloud infrastructure, compute power, and managed environments to help developers and enterprises train, deploy, and scale AI models and applications without relying exclusively on foreign cloud providers.",
+  "recent_changes": [
+    {
+      "title": "Krutrim announces strategic pivot to AI cloud services, reports 3x revenue growth and first net profit in FY26",
+      "date": "2026-05-05",
+      "url": "https://m.economictimes.com/tech/artificial-intelligence/krutrim-announces-strategic-pivot-to-ai-cloud-services-reports-3x-revenue-growth-and-first-net-profit-in-fy26/articleshow/130815491.cms"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Bhavish Aggarwal",
+      "role": "Founder and Chief Executive Officer",
+      "profile_url": "https://siliconvalleyinvestclub.com/companies/krutrim/team/bhavish-aggarwal"
+    },
+    {
+      "name": "Chandra Khatri",
+      "role": "Founding Head of AI",
+      "profile_url": "https://www.linkedin.com/in/ckhatri"
+    },
+    {
+      "name": "Rohit Kumar",
+      "role": "Head of Talent",
+      "profile_url": "https://in.linkedin.com/in/rohit-kumar-90b44341"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://www.olakrutrim.com",
+    "https://docs.cloud.olakrutrim.com",
+    "https://m.economictimes.com/tech/artificial-intelligence/krutrim-announces-strategic-pivot-to-ai-cloud-services-reports-3x-revenue-growth-and-first-net-profit-in-fy26/articleshow/130815491.cms",
+    "https://siliconvalleyinvestclub.com/companies/krutrim/team/bhavish-aggarwal",
+    "https://www.linkedin.com/in/ckhatri",
+    "https://in.linkedin.com/in/rohit-kumar-90b44341",
+    "https://www.gravityer.com/jobs/lead-generative-ai-research-engineer-ai-labs-krutrim"
+  ],
+  "hiring": [
+    {
+      "title": "Lead Generative AI Research Engineer (AI Labs)",
+      "skills": [],
+      "url": "https://www.gravityer.com/jobs/lead-generative-ai-research-engineer-ai-labs-krutrim"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Gupshup",
+  "website": "https://www.gupshup.ai",
+  "description": "Gupshup is a conversational AI platform providing marketing, commerce, and support automation through intelligent messaging channels and AI agents.",
+  "problem_they_solve": "Replaces static forms and ticket queues with AI-driven, human-like automated conversations that allow businesses to engage and support customers at scale across multiple messaging channels.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Beerud Sheth",
+      "role": "Co-Founder and Chief Executive Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Srinivas Anumolu",
+      "role": "Co-Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Kunal Patke",
+      "role": "SVP - Engineering",
+      "profile_url": null
+    },
+    {
+      "name": "Krishna Tammana",
+      "role": "Chief Technology Officer",
+      "profile_url": "linkedin.com/in/ktammana"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://growfusely.com/blog/gupshup",
+    "https://en.wikipedia.org/wiki/Gupshup",
+    "https://www.gupshup.ai/about-us",
+    "https://siliconvalleyinvestclub.com/tr/companies/gupshup/team/krishna-tammana",
+    "https://www.citybiz.co/article/296508/gupshup-appoints-krishna-tammana-as-chief-technology-officer",
+    "https://www.gupshup.ai/resources/press-releases/tnsdc-gupshup-whatsapp-chatbot-blue-collar-workers",
+    "https://www.scribd.com/document/783709268/jobDescription-2"
+  ],
+  "hiring": [
+    {
+      "title": "AI Researcher",
+      "skills": [],
+      "url": "https://www.scribd.com/document/783709268/jobDescription-2"
+    }
+  ]
+}

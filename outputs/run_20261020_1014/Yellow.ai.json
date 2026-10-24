@@ -1,0 +1,49 @@
+{
+  "name": "Yellow.ai",
+  "website": "https://yellow.ai",
+  "description": "Yellow.ai is an enterprise agentic AI platform that provides conversational and service automation across digital messaging, chat, email, and voice channels for customer and employee experience.",
+  "problem_they_solve": "Automates routine customer service calls and workflows in labor-intensive support and BPO operations using autonomous AI agents across 35+ channels and 135+ languages, reducing operating costs and ticket volumes.",
+  "recent_changes": [
+    {
+      "title": "Yellow.ai agrees to go public via $550 million merger with Bluerock Acquisition Corp.",
+      "date": "2026-08-03",
+      "url": "https://www.prnewswire.com/in/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-302841119.html"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Raghu Ravinutala",
+      "role": "Co-founder & Chief Executive Officer",
+      "profile_url": "https://www.linkedin.com/in/raghuravinutala"
+    },
+    {
+      "name": "Jaya Kishore Reddy",
+      "role": "Co-founder & Chief Product Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Madhav Chinta",
+      "role": "Chief Technology Officer",
+      "profile_url": null
+    },
+    {
+      "name": "Praful Kulkarni",
+      "role": "Director \u2013 People & Culture",
+      "profile_url": "https://in.linkedin.com/in/kulkarnipraful"
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yellow.ai",
+    "https://www.prnewswire.com/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-nasdaq-blrk-302840634.html",
+    "https://yellow.ai/author/raghuyellow-ai",
+    "https://yellow.ai/about-us",
+    "https://www.linkedin.com/in/raghuravinutala",
+    "https://yellow.ai/investors",
+    "https://www.prnewswire.com/in/news-releases/yellowai-a-global-leader-in-enterprise-agentic-ai-to-go-public-via-550-million-merger-with-bluerock-acquisition-corp-302841119.html",
+    "https://in.linkedin.com/in/kulkarnipraful",
+    "https://yellow.ai/career",
+    "https://startup.jobs/product-support-engineer-yellowai-3286634"
+  ],
+  "hiring": []
+}

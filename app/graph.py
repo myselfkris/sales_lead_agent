@@ -1,5 +1,5 @@
 import json, os
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import TypedDict
 from urllib.parse import urlparse
 from dotenv import load_dotenv
@@ -21,12 +21,12 @@ class State(TypedDict):
 def load(state: State):
     with open("data/companies.json") as f:
         companies = json.load(f)
-    # one folder per run, e.g. outputs/run_20261019_1245 -> old runs are never overwritten
     run_dir = f"outputs/run_{datetime.now().strftime('%Y%m%d_%H%M')}"
     os.makedirs(run_dir, exist_ok=True)
     return {"companies": companies, "index": 0, "run_dir": run_dir}
 
 BLOCKED = ["instagram.com", "facebook.com", "youtube.com", "x.com", "quora.com", "reddit.com"]
+ALLOWED = ("careers@", "jobs@", "hr@", "hiring@", "talent@", "recruit")
 
 def search_block(results):
     return "\n\n".join(
@@ -34,30 +34,25 @@ def search_block(results):
         for r in results["results"]
     )
 
-
 def research(state: State):
     c = state["companies"][state["index"]]
-    domain = urlparse(c["website"]).netloc.replace("www.", "")  # https://www.sarvam.ai -> sarvam.ai
     print(f"Researching {c['name']} ...")
+    try:
+        domain = urlparse(c["website"]).netloc.replace("www.", "")
 
-    # 1. General info
-    general = tavily.search(f"{c['name']} company overview founders",
-                            max_results=6, exclude_domains=BLOCKED)
-    # 2. Fresh news (last 6 months)
-    news = tavily.search(c["name"], topic="news", days=180,
-                         max_results=6, exclude_domains=BLOCKED)
-    # 3. People: tech leaders + HR  (NEW)
-    people = tavily.search(
-        f"{c['name']} CTO head of engineering VP engineering talent acquisition recruiter",
-        max_results=6, exclude_domains=BLOCKED)
-    # 4. Jobs: company's own website first  (UPGRADED)
-    jobs_official = tavily.search(f"{c['name']} careers engineer AI jobs",
-                                  max_results=5, include_domains=[domain])
-    # 5. Jobs: other job sites, only as a backup
-    jobs_other = tavily.search(f"{c['name']} AI engineer job opening",
-                               max_results=4, exclude_domains=BLOCKED)
+        general = tavily.search(f"{c['name']} company overview founders",
+                                max_results=6, exclude_domains=BLOCKED)
+        news = tavily.search(c["name"], topic="news", days=180,
+                             max_results=6, exclude_domains=BLOCKED)
+        people = tavily.search(
+            f"{c['name']} CTO head of engineering VP engineering talent acquisition recruiter",
+            max_results=6, exclude_domains=BLOCKED)
+        jobs_official = tavily.search(f"{c['name']} careers engineer AI jobs",
+                                      max_results=5, include_domains=[domain])
+        jobs_other = tavily.search(f"{c['name']} AI engineer job opening",
+                                   max_results=4, exclude_domains=BLOCKED)
 
-    prompt = f"""Research {c['name']} ({c['website']}) using ONLY the sources below.
+        prompt = f"""Research {c['name']} ({c['website']}) using ONLY the sources below.
 
 RULES:
 - If a fact isn't in the sources, leave it empty. Never guess names, emails or links.
@@ -65,6 +60,7 @@ RULES:
   merger, acquisition, big hire, big customer). NOT articles that explain, review,
   price or compare the company. Look in ALL sections. Every item needs a date and URL.
   If two items describe the same event, keep one (prefer the company's own site).
+  Write every date as YYYY-MM-DD.
 - Big facts (funding, valuation, launches) only from {c['website']}, the company's investors,
   press release sites, or known news outlets (Economic Times, Moneycontrol, Inc42,
   YourStory, TechCrunch, Mint, NDTV). Skip random blogs.
@@ -91,17 +87,31 @@ OFFICIAL JOBS (company website):
 OTHER JOBS:
 {search_block(jobs_other)}"""
 
-    result = llm.invoke(prompt).model_dump()
+        result = llm.invoke(prompt).model_dump()
 
-    ALLOWED = ("careers@", "jobs@", "hr@", "hiring@", "talent@", "recruit")
-    email = result.get("public_email")
-    if email and not email.lower().startswith(ALLOWED):
-        result["public_email"] = None
+        email = result.get("public_email")
+        if email and not email.lower().startswith(ALLOWED):
+            result["public_email"] = None
 
-    return {"current": result}
-
+        
+        cutoff = datetime.now() - timedelta(days=180)
+        fresh = []
+        for item in result["recent_changes"]:
+            try:
+                if datetime.strptime(item["date"], "%Y-%m-%d") >= cutoff:
+                    fresh.append(item)
+            except (TypeError, ValueError):
+                pass  # no date or wrong format -> drop it
+        result["recent_changes"] = fresh
+        return {"current": result}
+    except Exception as e:
+        print(f"  FAILED {c['name']}: {e}")
+        return {"current": None}
+        
 def save(state: State):
     c = state["current"]
+    if c is None:  # research failed -> skip this company, move on
+        return {"index": state["index"] + 1}
     path = f"{state['run_dir']}/{c['name'].replace(' ', '_')}.json"
     with open(path, "w") as f:
         json.dump(c, f, indent=2)

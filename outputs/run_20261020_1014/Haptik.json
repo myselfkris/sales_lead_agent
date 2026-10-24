@@ -1,0 +1,71 @@
+{
+  "name": "Haptik",
+  "website": "https://www.haptik.ai",
+  "description": "Haptik is an enterprise conversational AI platform that enables organizations to build and deploy AI-powered virtual assistants and voice agents across messaging channels and web applications.",
+  "problem_they_solve": "Haptik automates customer service, sales, and lead qualification workflows across channels like WhatsApp, voice, and web chat, helping enterprises handle customer inquiries at scale while reducing operational burden.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Aakrit Vaish",
+      "role": "Co-Founder",
+      "profile_url": "https://www.jioinstitute.edu.in/aakrit-vaish"
+    },
+    {
+      "name": "Swapan Rajdev",
+      "role": "Co-Founder & CTO",
+      "profile_url": null
+    },
+    {
+      "name": "Saumil Shah",
+      "role": "CTO",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haptik",
+    "https://www.haptik.ai/about-us",
+    "https://www.jioinstitute.edu.in/aakrit-vaish",
+    "https://haptik.freshteam.com/jobs",
+    "https://www.instahyre.com/job-431080-voice-ai-engineer-at-haptik-work-from-home"
+  ],
+  "hiring": [
+    {
+      "title": "Voice and AI Engineer",
+      "skills": [
+        "voice or telephony systems",
+        "Python",
+        "Node.js",
+        "Java",
+        "APIs",
+        "cloud-based systems",
+        "conversational AI",
+        "AI/ML",
+        "LLM"
+      ],
+      "url": "https://www.instahyre.com/job-431080-voice-ai-engineer-at-haptik-work-from-home"
+    },
+    {
+      "title": "Devops Engineer - 2",
+      "skills": [],
+      "url": "https://haptik.freshteam.com/jobs"
+    },
+    {
+      "title": "Software Engineer - Backend",
+      "skills": [],
+      "url": "https://haptik.freshteam.com/jobs"
+    },
+    {
+      "title": "Software Engineer, Backend - L3 (Python)",
+      "skills": [
+        "Python"
+      ],
+      "url": "https://haptik.freshteam.com/jobs"
+    },
+    {
+      "title": "Voice AI Engineer (Hybrid)",
+      "skills": [],
+      "url": "https://haptik.freshteam.com/jobs"
+    }
+  ]
+}

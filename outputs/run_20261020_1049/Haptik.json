@@ -1,0 +1,67 @@
+{
+  "name": "Haptik",
+  "website": "https://www.haptik.ai",
+  "description": "Haptik is an enterprise conversational AI platform that builds AI agents and virtual assistants for customer support, sales, and messaging channels including WhatsApp, web, and voice.",
+  "problem_they_solve": "Enables enterprises to automate customer support and sales interactions across web, voice, and messaging platforms through conversational AI and autonomous AI agents.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Aakrit Vaish",
+      "role": "Co-Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Swapan Rajdev",
+      "role": "Co-Founder & CTO",
+      "profile_url": null
+    },
+    {
+      "name": "Saumil Shah",
+      "role": "CTO",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://en.wikipedia.org/wiki/Haptik",
+    "https://www.haptik.ai/about-us",
+    "https://haptik.freshteam.com/jobs",
+    "https://www.instahyre.com/job-431080-voice-ai-engineer-at-haptik-work-from-home"
+  ],
+  "hiring": [
+    {
+      "title": "Voice and AI Engineer",
+      "skills": [
+        "voice or telephony systems",
+        "Python",
+        "Node.js",
+        "Java",
+        "APIs",
+        "conversational AI"
+      ],
+      "url": "https://www.instahyre.com/job-431080-voice-ai-engineer-at-haptik-work-from-home"
+    },
+    {
+      "title": "Software Engineer, Backend - L3 (Python)",
+      "skills": [
+        "Python"
+      ],
+      "url": "https://haptik.freshteam.com/jobs"
+    },
+    {
+      "title": "Voice AI Engineer (Hybrid)",
+      "skills": [],
+      "url": "https://haptik.freshteam.com/jobs"
+    },
+    {
+      "title": "Software Engineer - Backend",
+      "skills": [],
+      "url": "https://haptik.freshteam.com/jobs"
+    },
+    {
+      "title": "Devops Engineer - 2",
+      "skills": [],
+      "url": "https://haptik.freshteam.com/jobs"
+    }
+  ]
+}

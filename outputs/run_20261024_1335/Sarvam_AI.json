@@ -1,0 +1,82 @@
+{
+  "name": "Sarvam AI",
+  "website": "https://www.sarvam.ai",
+  "description": "Sarvam AI is an Indian AI company developing full-stack sovereign artificial intelligence systems tailored to India's linguistic, enterprise, and governance needs, including speech-to-text, translation, and text-to-speech models across 22 Indian languages.",
+  "problem_they_solve": "Global AI models often fail to capture India's rich linguistic diversity, local accents, and Hinglish code-switching, and they are largely inaccessible to the vast population of Indians who do not read, write, or type in English. Sarvam AI builds foundational Indic language models and speech infrastructure to enable population-scale sovereign AI applications.",
+  "recent_changes": [
+    {
+      "title": "Sarvam AI announces $234 million Series B first close at $1.5 billion valuation",
+      "date": "2026-06-15",
+      "url": "https://www.sarvam.ai/announcing-series-b"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Vivek Raghavan",
+      "role": "Co-Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Pratyush Kumar",
+      "role": "Co-Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "Senior Recruiter",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://www.sarvam.ai/announcing-series-b",
+    "https://www.bloomberg.com/news/articles/2026-02-18/upstart-sarvam-unveils-ai-model-customized-for-india-market",
+    "https://www.elastic.co/search-labs/blog/multilingual-voice-agent-sarvam-ai-elastic-agent-builder",
+    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231169",
+    "https://www.sarvam.ai/careers",
+    "https://www.sarvam.ai/careers/jobs/10f11bb2-fe15-4743-9b3f-81da6743ea6a",
+    "https://www.scribd.com/document/1034814662/Priya-Sharma-Resume-Cartesia"
+  ],
+  "hiring": [
+    {
+      "title": "Staff Engineer, Product Infrastructure",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers/jobs/10f11bb2-fe15-4743-9b3f-81da6743ea6a"
+    },
+    {
+      "title": "Platform Engineer - AI Infrastructure",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Performance Engineer, On-Device Inference",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Senior Performance Engineer, Intel Stack",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "ML Ops Engineer, Chanakya",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Researcher, Vision",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Senior Backend Engineer, Vision",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    },
+    {
+      "title": "Staff Data Engineer",
+      "skills": [],
+      "url": "https://www.sarvam.ai/careers"
+    }
+  ]
+}

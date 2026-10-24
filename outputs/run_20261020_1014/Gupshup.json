@@ -1,0 +1,52 @@
+{
+  "name": "Gupshup",
+  "website": "https://www.gupshup.ai",
+  "description": "Gupshup is a conversational AI and messaging platform providing marketing, commerce, and support automation tools and APIs across channels such as WhatsApp, SMS, RCS, and Instagram.",
+  "problem_they_solve": "Helps businesses replace static forms and ticket queues with AI agents and conversational messaging at scale, enabling natural customer interaction across marketing, sales, and support.",
+  "recent_changes": [],
+  "contacts": [
+    {
+      "name": "Beerud Sheth",
+      "role": "Co-Founder and CEO",
+      "profile_url": null
+    },
+    {
+      "name": "Srinivas Anumolu",
+      "role": "Co-Founder",
+      "profile_url": null
+    },
+    {
+      "name": "Rakesh Mathur",
+      "role": "Chairman and Co-Founder",
+      "profile_url": null
+    }
+  ],
+  "public_email": null,
+  "sources": [
+    "https://growfusely.com/blog/gupshup",
+    "https://en.wikipedia.org/wiki/Gupshup",
+    "https://foundersnetwork.com/beerud-sheth-how-founders-can-take-advantage-of-recent-changes-tech-landscape",
+    "https://teardowns.sandhill.io/p/gupshup",
+    "https://tracxn.com/d/companies/gupshup/__hizFYlw9lsz9JCJZutuRtQ1dHHUknFyP73hc7TIyw3E",
+    "https://www.linkedin.com/posts/tiesv_beerud-sheth-co-founder-ceo-of-gupshup-activity-7356383113343610882-OnF4",
+    "https://www.getmacha.com/blog/gupshup-ai-complete-guide",
+    "https://www.gupshup.ai/sms-api",
+    "https://console-docs.gupshup.io",
+    "https://cxtoday.com/gupshup-enterprise-ai-orchestration",
+    "https://www.gupshup.ai/careers",
+    "https://www.gupshup.ai",
+    "https://cloudsoftsol.com/blog/gupshup-ai-ml-engineer-genai-fresher-bangalore-2026"
+  ],
+  "hiring": [
+    {
+      "title": "AI ML Engineer GenAI Fresher",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "pandas/NumPy"
+      ],
+      "url": "https://cloudsoftsol.com/blog/gupshup-ai-ml-engineer-genai-fresher-bangalore-2026"
+    }
+  ]
+}
